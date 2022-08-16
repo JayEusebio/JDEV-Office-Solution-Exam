@@ -7,11 +7,11 @@
 ## Installation
 1. Clone this repository to your local machine
 ```sh
-$ git clone https://github.com/JayEusebio/JDEV-Exam.git
+$ git clone https://github.com/JayEusebio/JDEV-Office-Solution-Exam.git
 ```
 2. CD to project directory then setup Composer and NPM
 ```sh
-$ cd path/to/JDEV-Exam
+$ cd path/to/JDEV-Office-Solution-Exam
 $ composer install
 $ npm install
 ``` 
@@ -29,6 +29,6 @@ $ php artisan db:seed --class=CustomersTypeSeeder
 $ php artisan serve
 ```
 - Open another terminal instance then run the following
-```sh
+```
 $ npm run dev
 ```
